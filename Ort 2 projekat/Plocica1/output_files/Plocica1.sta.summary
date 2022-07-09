@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -6.046
+TNS   : -508.426
+
+Type  : Slow 1200mV 85C Model Setup 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -0.603
+TNS   : -1.590
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -141.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -5.348
+TNS   : -442.865
+
+Type  : Slow 1200mV 0C Model Setup 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -0.424
+TNS   : -0.753
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -141.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -3.003
+TNS   : -228.941
+
+Type  : Fast 1200mV 0C Model Setup 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -149.214
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab1demoupgrade:inst4|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+------------------------------------------------------------

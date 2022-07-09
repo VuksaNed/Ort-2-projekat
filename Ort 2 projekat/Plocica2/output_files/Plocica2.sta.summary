@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -0.798
+TNS   : -9.203
+
+Type  : Slow 1200mV 85C Model Setup 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -0.541
+TNS   : -0.771
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -0.619
+TNS   : -6.837
+
+Type  : Slow 1200mV 0C Model Setup 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -0.384
+TNS   : -0.384
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -0.002
+TNS   : -0.016
+
+Type  : Fast 1200mV 0C Model Setup 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -22.008
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab1demoupgrade:inst|Lab1Demo:inst|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+------------------------------------------------------------
